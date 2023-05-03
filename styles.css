@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-image:url("images/drume.jpeg");
+  display:gride;
 }
 
 h1 {
